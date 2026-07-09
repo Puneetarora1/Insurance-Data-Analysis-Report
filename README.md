@@ -24,4 +24,9 @@ Developed an interactive **Power BI dashboard** to analyze insurance policy perf
 - **22.6%** of insurance claims are currently **Pending**.
 
 ---
+
+- ## 📷 Project Snapshot
+- ![Customer Segments](https://github.com/Puneetarora1/Insurance-Data-Analysis-Report/blob/main/Dashboard%20Snapshot.png)
+
+---
 ```
